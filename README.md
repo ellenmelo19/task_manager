@@ -27,7 +27,7 @@ Certifique-se de ter um servidor MongoDB em execução localmente na porta padr�
 
 ## Uso
 
-Execute o script `task_manager.py` e siga as instruções do menu para interagir com o sistema de gerenciamento de tarefas.
+Execute o script `task_manager.py` (localizado na master branch) e siga as instruções do menu para interagir com o sistema de gerenciamento de tarefas.
 
 ```
 python task_manager.py
