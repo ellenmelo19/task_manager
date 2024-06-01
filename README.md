@@ -25,6 +25,8 @@ Certifique-se de ter um servidor MongoDB em execução localmente na porta padr�
 - **Atualizar Tarefa:** Permite atualizar o título, descrição ou status de uma tarefa existente.
 - **Deletar Tarefa:** Remove uma tarefa do banco de dados com base no seu ID.
 
+  OBS: Selecionar tarefa antes de Atualizar ou Deletar
+
 ## Uso
 
 Execute o script `task_manager.py` (localizado na master branch) e siga as instruções do menu para interagir com o sistema de gerenciamento de tarefas.
