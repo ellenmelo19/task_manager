@@ -32,9 +32,15 @@ Execute o script `task_manager.py` (localizado na master branch) e siga as instr
 ```
 python task_manager.py
 ```
+
+### Requisitos
+- Python 3.x
+- MongoDB
+- Bibliotecas: pymongo, tkinter (ou outra biblioteca de interface gráfica que você esteja usando)
+
 ## Melhorias
 Melhorias planejadas para este projeto: 
-- Implementar a GUI (Interface Gráfica)
+- ~~Implementar a GUI (Interface Gráfica)~~
 - Notificações e Lembretes
 - Filtros e Ordenação
 
